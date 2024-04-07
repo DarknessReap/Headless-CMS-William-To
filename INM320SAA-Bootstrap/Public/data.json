@@ -1,0 +1,73 @@
+{
+  "tickets": {
+    "Unresolved": 60,
+    "Overdue": 16,
+    "Open": 43,
+    "On Hold": 64
+  },
+  "contentColumn": [
+    {
+      "title": "Resolved",
+      "number": 449
+    },
+    {
+      "title": "Received",
+      "number": 426
+    },
+    {
+      "title": "Average first response time",
+      "number": "33m"
+    },
+    {
+      "title": "Average response time",
+      "number": "3h 8m"
+    },
+    {
+      "title": "Resolution within SLA",
+      "number": "94%"
+    }
+  ],
+  "sections": {
+    "section1": {
+      "title": "Unresolved tickets",
+      "group": "Group: support",
+      "details": [
+        {
+          "name": "Waiting on Feature Request",
+          "count": 4238
+        },
+        {
+          "name": "Awaiting customer response",
+          "count": 1005
+        },
+        {
+          "name": "Awaiting developer fix",
+          "count": 914
+        },
+        {
+          "name": "Pending",
+          "count": 281
+        }
+      ]
+    },
+    "section2": {
+      "title": "Tasks",
+      "details": [
+        {
+          "name": "Create new task"
+        },
+        {
+          "name": "Finish ticket update",
+          "badge": "urgent"
+        },
+        {
+          "name": "Create new ticket example",
+          "badge": "new"
+        },
+        {
+          "name": "Update ticket report"
+        }
+      ]
+    }
+  }
+}

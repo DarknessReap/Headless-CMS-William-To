@@ -89,7 +89,6 @@ function renderSections(sectionData) {
 
 // Main function to handle reading JSON file and rendering content
 async function main() {
-    // Read JSON file
     const jsonData = await readJsonFile('data.json');
 
     if (jsonData) {
